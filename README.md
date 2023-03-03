@@ -3,7 +3,7 @@
 Based in on github [hdonk/javelin](https://github.com/hdonk/javelin) project.
 
 ## Installation
-For install, Download ZIP, unpack "javelin-master" folder into <Processing sketchbook>/libraries directory.
+For install, Download ZIP, unpack "javelin-master" folder into Processing sketchbook/libraries directory.
 Rename folder "javelin-master" to "javelin".
 
 ## Devices
