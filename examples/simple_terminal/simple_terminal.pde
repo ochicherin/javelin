@@ -8,9 +8,9 @@ import javelin.*;
 
 void setup()
 {
-  	javelin.init();
-  	System.out.println("Start scan devices ...");
-  	String l_devices[] = javelin.listBLEDevices();
+    javelin.init();
+    System.out.println("Start scan devices ...");
+    String l_devices[] = javelin.listBLEDevices();
     System.out.println("Device : "+ble_device);
     String l_name = javelin.getBLEDeviceName(ble_device);
     System.out.println("  Name: "+l_name);
@@ -70,7 +70,7 @@ void draw(){
 
 void keyPressed()
 {
-  byte[] l_bytes = {(byte) key}; 
-  javelin.setBLECharacteristicValue(ble_device,ble_service,ble_char, l_bytes);
-  if (set_echo) System.out.print(key);
+    byte[] l_bytes = {(byte) key}; 
+    javelin.setBLECharacteristicValue(ble_device,ble_service,ble_char, l_bytes);
+    if (set_echo) System.out.print(key);
 }  
