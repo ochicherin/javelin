@@ -9,7 +9,8 @@ The following devices are used in the examples
  - JDY-16 bluetooth module
  - Portobello fit one fitness tracker 
 
-The keywish_rgb and keywish_rgb examples assume interaction with the Arduino ide. 
-The Arduino code is in the <a href="https://github.com/keywish/keywish-arduino-rfid-kit">keywish/<em>keywish-arduino-rfid-kit</em></a> repository sections Lesson32 and Lesson33.
+The keywish_rgb and keywish_rgb examples assume interaction with the Arduino IDE. 
+The Arduino code is in the <a href="https://github.com/keywish/keywish-arduino-rfid-kit">keywish/<em>keywish-arduino-rfid-kit</em></a> repository 
+sections Lesson32 and Lesson33.
 </pre>
  
