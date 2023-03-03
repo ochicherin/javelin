@@ -1,8 +1,8 @@
 # javelin
 <pre><a href="https://processing.org">Processing</a> library for Bluetooth LE devices on Win10 x64.
-Based in on github project <a href="https://github.com/hdonk/javelin"> hdonk/<em>javelin</em> </a>
+Based in on github <a href="https://github.com/hdonk/javelin">hdonk/<em>javelin</em></a> project.
 
-For install, dowload zip, unpack "javelin-master" folder into Processing/libraries directory.
+For install, Download ZIP, unpack "javelin-master" folder into Processing/libraries directory.
 Rename folder "javelin-master" to "javelin".
 
 The following devices are used in the examples
