@@ -1,16 +1,18 @@
 # javelin
-<pre><a href="https://processing.org">Processing</a> library for Bluetooth LE devices on Win10 x64.
-Based in on github <a href="https://github.com/hdonk/javelin">hdonk/<em>javelin</em></a> project.
+[Processing](https://processing.org) library for Bluetooth LE devices on Win10 x64.
+Based in on github [hdonk/javelin](https://github.com/hdonk/javelin) project.
 
+## Installation
 For install, Download ZIP, unpack "javelin-master" folder into Processing/libraries directory.
 Rename folder "javelin-master" to "javelin".
 
+## Devices
 The following devices are used in the examples
- - JDY-16 bluetooth module
- - Portobello fit one fitness tracker 
++ JDY-16 bluetooth module
++ Portobello fit one fitness tracker 
 
-The keywish_rgb and keywish_rgb examples assume interaction with the Arduino IDE. 
-The Arduino code is in the <a href="https://github.com/keywish/keywish-arduino-rfid-kit">keywish/<em>keywish-arduino-rfid-kit</em></a> repository 
-sections Lesson32 and Lesson33.
-</pre>
+## Examples
+The keywish_rgb.rde and keywish_rgb.rde examples assume interaction with the Arduino IDE. 
+The Arduino code is in the [keywish/<em>keywish-arduino-rfid-kit](https://github.com/keywish/keywish-arduino-rfid-kit") repository sections Lesson32 and Lesson33.
+
  
